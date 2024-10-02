@@ -1,3 +1,8 @@
+
+
+# Version 1.0.0
+Removed IOS support because of incompatibility with the custom url scheme plugin (https://github.com/EddyVerbruggen/Custom-URL-scheme)
+
 # Cordova Client Certificate authentication support plugin
 
 Plugin that uses a client certificate for authentication, with special `myp12` file association as described below.
